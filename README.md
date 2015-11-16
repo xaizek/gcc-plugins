@@ -6,7 +6,7 @@ plugin.
 
 ### List of Plugins ###
 
-* inc-tree -- prints all includes of a translation unit.
+* inc-tree -- prints all includes of a translation unit (as `-H` option of GCC).
 
 ### License ###
 

@@ -3,3 +3,5 @@
 * Maybe print results to `<source-file>.it` instead of standard output.
 
 * Consider printing "real" include name (like `<<builtin>>` or `<<cmdline>>`.
+
+* Maybe print summary of how many times each file was included.

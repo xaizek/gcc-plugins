@@ -6,6 +6,8 @@ The purpose of this plugin is to display tree of includes per compilation unit.
 With its help one can answer from which place some particular include comes
 from.
 
+*Turns out there is already `-H` option for that.*
+
 ### Supported Environment ###
 
 Tested with GCC 4.9.3, should work with 4.9 and maybe with newer versions.
