@@ -13,16 +13,16 @@
 // You should have received a copy of the GNU General Public License
 // along with the plugin.  If not, see <http://www.gnu.org/licenses/>.
 
-#include <gcc-plugin.h>
-
-#include <input.h>
-#include <c-family/c-pragma.h>
-
 #include <cstring>
 
 #include <iostream>
 #include <string>
 #include <vector>
+
+#include <gcc-plugin.h>
+
+#include <input.h>
+#include <c-family/c-pragma.h>
 
 #include "IncTree.hpp"
 
